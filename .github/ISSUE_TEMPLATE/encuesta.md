@@ -1,7 +1,7 @@
 ---
 name: Encuesta de satisfacción
 about: Déjanos tu opinión sobre el manual completando una encuesta externa.
-title: "[Feedback] Encuesta de usuario"
+title: " Encuesta de usuario"
 labels: feedback
 assignees: ''
 ---
